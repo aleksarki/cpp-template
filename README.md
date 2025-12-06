@@ -1,7 +1,7 @@
 # C++ template
 
-This repository is template C++ project ready to be compiled.
-Compilation is performed for MSVC (Windows).
+This repository is template **C++** project ready to be compiled.
+Compilation is performed for **MSVC** (*Windows*).
 
 ### Compile and execute:
 
